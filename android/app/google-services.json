@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "156172939748",
+    "project_id": "crystal-magic-yjgs",
+    "storage_bucket": "crystal-magic-yjgs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156172939748:android:20ae87b5fb4c6cb9f397f1",
+        "android_client_info": {
+          "package_name": "com.street.crystal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156172939748-tv4evds5tsgvc44t2t6q4bfuov3qu4mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.street.crystal",
+            "certificate_hash": "ab2d9f447c57e994bec448588af67b5bb01d0d5f"
+          }
+        },
+        {
+          "client_id": "156172939748-3fkm27n716vq0kho2qabuv7rk9pggbmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF-FUy48snY5ZktUmyrdmseOYvmNMrsgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156172939748-3fkm27n716vq0kho2qabuv7rk9pggbmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
